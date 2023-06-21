@@ -1,0 +1,14 @@
+#img{
+    text-align: center;
+}
+#ff{text-align: center;}
+    table,th,tr,td{
+       border: 1px black solid;
+       margin: auto;}
+#d1{
+    color: yellowgreen; text-align: center; text-overflow:ellipsis ;
+}
+h1{
+    text-decoration: line-through wavy red 1px;
+
+}
